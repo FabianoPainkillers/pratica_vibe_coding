@@ -2,6 +2,8 @@
 
 A modern Todo application with a FastAPI backend and a simple frontend interface. This project demonstrates a full-stack application using Docker containerization, PostgreSQL database, and RESTful API architecture.
 
+<img width="591" height="313" alt="image" src="https://github.com/user-attachments/assets/e573f5ef-cc32-4b2a-9d6c-794db1fd7f81" />
+
 ## Features
 
 - Create, read, update, and delete Todo items
