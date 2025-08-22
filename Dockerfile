@@ -9,6 +9,7 @@ COPY ./requirements.txt /code/requirements.txt
 
 # Install any needed packages specified in requirements.txt
 RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt
+RUN pip install --no-cache-dir pydantic-settings
 
 # Copy the app directory into the container at /code
 COPY ./app /code/app
